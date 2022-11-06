@@ -1,0 +1,15 @@
+F:\мой старый комп\Данные (D)\Работа Крыжика А.П\Обучение в GeekBraince\C#\Homework_4\Task_5\bin\Debug\net6.0\Task_5.exe
+F:\мой старый комп\Данные (D)\Работа Крыжика А.П\Обучение в GeekBraince\C#\Homework_4\Task_5\bin\Debug\net6.0\Task_5.deps.json
+F:\мой старый комп\Данные (D)\Работа Крыжика А.П\Обучение в GeekBraince\C#\Homework_4\Task_5\bin\Debug\net6.0\Task_5.runtimeconfig.json
+F:\мой старый комп\Данные (D)\Работа Крыжика А.П\Обучение в GeekBraince\C#\Homework_4\Task_5\bin\Debug\net6.0\Task_5.dll
+F:\мой старый комп\Данные (D)\Работа Крыжика А.П\Обучение в GeekBraince\C#\Homework_4\Task_5\bin\Debug\net6.0\Task_5.pdb
+F:\мой старый комп\Данные (D)\Работа Крыжика А.П\Обучение в GeekBraince\C#\Homework_4\Task_5\obj\Debug\net6.0\Task_5.csproj.AssemblyReference.cache
+F:\мой старый комп\Данные (D)\Работа Крыжика А.П\Обучение в GeekBraince\C#\Homework_4\Task_5\obj\Debug\net6.0\Task_5.GeneratedMSBuildEditorConfig.editorconfig
+F:\мой старый комп\Данные (D)\Работа Крыжика А.П\Обучение в GeekBraince\C#\Homework_4\Task_5\obj\Debug\net6.0\Task_5.AssemblyInfoInputs.cache
+F:\мой старый комп\Данные (D)\Работа Крыжика А.П\Обучение в GeekBraince\C#\Homework_4\Task_5\obj\Debug\net6.0\Task_5.AssemblyInfo.cs
+F:\мой старый комп\Данные (D)\Работа Крыжика А.П\Обучение в GeekBraince\C#\Homework_4\Task_5\obj\Debug\net6.0\Task_5.csproj.CoreCompileInputs.cache
+F:\мой старый комп\Данные (D)\Работа Крыжика А.П\Обучение в GeekBraince\C#\Homework_4\Task_5\obj\Debug\net6.0\Task_5.dll
+F:\мой старый комп\Данные (D)\Работа Крыжика А.П\Обучение в GeekBraince\C#\Homework_4\Task_5\obj\Debug\net6.0\refint\Task_5.dll
+F:\мой старый комп\Данные (D)\Работа Крыжика А.П\Обучение в GeekBraince\C#\Homework_4\Task_5\obj\Debug\net6.0\Task_5.pdb
+F:\мой старый комп\Данные (D)\Работа Крыжика А.П\Обучение в GeekBraince\C#\Homework_4\Task_5\obj\Debug\net6.0\Task_5.genruntimeconfig.cache
+F:\мой старый комп\Данные (D)\Работа Крыжика А.П\Обучение в GeekBraince\C#\Homework_4\Task_5\obj\Debug\net6.0\ref\Task_5.dll
